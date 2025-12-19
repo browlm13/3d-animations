@@ -1,0 +1,12 @@
+[workspace]
+members = [
+  "crates/cosmic_core",
+  "crates/cosmic_gen",
+  "crates/cosmic_web",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+authors = ["3d-animations contributors"]
+license = "MIT OR Apache-2.0"

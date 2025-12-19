@@ -1,0 +1,12 @@
+[package]
+name = "cosmic_web"
+version = "0.1.0"
+edition = "2021"
+description = "Lightweight viewer glue for the cosmic workspace"
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+cosmic_core = { path = "../cosmic_core" }
+cosmic_gen = { path = "../cosmic_gen" }
+serde_json = "1.0"

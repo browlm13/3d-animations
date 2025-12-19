@@ -1,0 +1,14 @@
+[
+  {"id": "galaxy_root", "parent": null, "orbit": null},
+  {
+    "id": "cluster_0",
+    "parent": "galaxy_root",
+    "orbit": {
+      "RotationCurve": {
+        "radius_kpc": 10.0,
+        "phase0_rad": 0.0,
+        "angular_speed": 0.02
+      }
+    }
+  }
+]
