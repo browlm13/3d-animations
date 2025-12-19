@@ -1,0 +1,5 @@
+# Default generator configuration
+cluster_count = 8
+cluster_radius_kpc = 15.0
+cluster_spread_kpc = 4.0
+rotation_speed = 0.02

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "galaxy_root",
+    "display_name": "Tiny Galaxy",
+    "kind": "galaxy",
+    "color_hint": null,
+    "tags": []
+  },
+  {
+    "id": "cluster_0",
+    "display_name": "Tiny Cluster",
+    "kind": "cluster",
+    "color_hint": "#66ccff",
+    "tags": ["example"]
+  }
+]
